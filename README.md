@@ -67,3 +67,7 @@ Access to the AWS console, Dynamo DB, Github Account (for documentation)
 ## Step 6: Review the items returned
 
 - To change Query criteria for UserID type the value
+- Click run, then review the results
+- Once finished close all resources to avoid being billed
+
+## All items you listed in your Dynamo DB table should populate
