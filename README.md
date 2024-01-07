@@ -1,4 +1,4 @@
-# Cloud-Quest-No-SQL-Database-
+# Cloud-Quest-No-SQL-Database- *cloud
 In this project we will be creating s No SQL database tohelp behaiviors from metadata, such as movies wanted and device types.
 
 ### Prerequisites
