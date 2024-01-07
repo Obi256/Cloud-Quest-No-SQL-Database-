@@ -1,10 +1,10 @@
 # Cloud-Quest-No-SQL-Database-☁️
 In this project we will be creating s No SQL database tohelp behaiviors from metadata, such as movies wanted and device types.
 
-### Prerequisites
+## Prerequisites
 Access to the AWS console, Dynamo DB, Github Account (for documentation) 
 
-## Step 1:  open the Aws Console, navigate to the Dynomo DB service
+## Step 1:  Open the Aws Console, navigate to the Dynomo DB service
 
 - Cretae a new table 
 
@@ -38,7 +38,7 @@ Access to the AWS console, Dynamo DB, Github Account (for documentation)
 
 - Click add new attribute, choose list, then for attribute name type "SuppourtedDeviceTypes"
 
-## Step 4: click insert a field to expand dropdown, then choose string.
+## Step 4: Click insert a field to expand dropdown, then choose string.
 
 - For attribute name click the ( + ), then for value in the new text box type "Amazon Fire TV"
 
