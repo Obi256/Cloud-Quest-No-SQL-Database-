@@ -1,24 +1,24 @@
-# Cloud-Quest-No-SQL-Database- *cloud
+# Cloud-Quest-No-SQL-Database- *☁️
 In this project we will be creating s No SQL database tohelp behaiviors from metadata, such as movies wanted and device types.
 
 ### Prerequisites
 Access to the AWS console, Dynamo DB, Github Account (for documentation) 
-* ☁️
+
 ## Step 1:  open the Aws Console, navigate to the Dynomo DB service
 
 Cretae a new table 
 
-In the table details give a table name
+- In the table details give a table name
 
-type a partition key and choose a string
+- type a partition key and choose a string
 
-For short key input "LastDateWatched" 
+- For short key input "LastDateWatched" 
 
-In the Settings Section keep everything default
+- In the Settings Section keep everything default
 
 ##  Step 2: Create Table  
 
-In the tables section, review the status of the table, make sure it is active
+- In the tables section, review the status of the table, make sure it is active
 
 Click the table name 
 
