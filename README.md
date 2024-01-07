@@ -70,4 +70,5 @@ Access to the AWS console, Dynamo DB, Github Account (for documentation)
 - Click run, then review the results
 - Once finished close all resources to avoid being billed
 
-## All items you listed in your Dynamo DB table should populate, this concludes the project Thank you
+## All items you listed in your Dynamo DB table should populate
+## This concludes the project Thank you 👍
