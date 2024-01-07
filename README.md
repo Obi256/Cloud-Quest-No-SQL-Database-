@@ -4,7 +4,9 @@ In this project we will be creating s No SQL database tohelp behaiviors from met
 ### Prerequisites
 Access to the AWS console, Dynamo DB, Github Account (for documentation) 
 
-## Step 1:  open the Aws Console, then navigate to the Dynomo DB service and create a new table.
+## Step 1:  open the Aws Console, navigate to the Dynomo DB service
+
+Cretae a new table 
 
 In the table details give a table name
 
