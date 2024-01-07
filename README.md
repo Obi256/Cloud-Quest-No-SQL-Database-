@@ -3,7 +3,7 @@ In this project we will be creating s No SQL database tohelp behaiviors from met
 
 ### Prerequisites
 Access to the AWS console, Dynamo DB, Github Account (for documentation) 
-
+* ☁️
 ## Step 1:  open the Aws Console, navigate to the Dynomo DB service
 
 Cretae a new table 
